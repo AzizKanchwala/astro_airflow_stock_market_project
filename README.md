@@ -35,11 +35,22 @@ Mental model for the configuration in this pipeline
 ![Alt text](image/mental_model.png)
 
 
+
+
+
+
+
 Container Set-up
 ==============================================
 ![Alt text](image/config1.png)
 
 
-Sample of the Data as loaded in the Postgres Database used as a Warehouse here
+
+
+
+
+
+
+Sample of the Data as loaded in Postgres
 ============================================================================================
 ![Alt text](image/sample_output.png)
