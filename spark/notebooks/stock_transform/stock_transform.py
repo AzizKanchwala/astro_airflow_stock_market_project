@@ -10,10 +10,10 @@
 # Go to Docker Desktop -> Preferences -> Resources -> Advanced -> Memory
 
 # Import the SparkSession module
-from pyspark.sql import SparkSession
-from pyspark import SparkContext
-from pyspark.sql.functions import explode, arrays_zip, from_unixtime
-from pyspark.sql.types import DateType
+from pyspark.sql import SparkSession # type: ignore
+from pyspark import SparkContext # type: ignore
+from pyspark.sql.functions import explode, arrays_zip, from_unixtime # type: ignore
+from pyspark.sql.types import DateType # type: ignore
 
 import os
 import sys
