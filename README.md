@@ -14,7 +14,7 @@ This is a dag which helps with orchestrating a simple ETL pipeline for the stock
 
 Note
 =====
-All the connections are stored in the metabase. For this pipeline, we have these.
+All the connections are stored in the metadatabase. For this pipeline, we have these.
 ![Alt text](image/connections.png)
 
 
@@ -28,3 +28,8 @@ To run this pipeline, one needs to have docker installed locally and execute the
 
 This will create all the containers as specified in the `docker-compose.override.yml` file and install all the dependencies as specified in the `requirements.txt` file in the docker environment.
 The username and password required to log into airflow are `admin` and `admin` respectively.
+
+
+Mental model for the configuration in this pipeline
+====================================================
+![Alt text](image/mental_model.png)
