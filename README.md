@@ -16,3 +16,14 @@ Note
 =====
 All the connections are stored in the metabase. For this pipeline, we have these.
 ![Alt text](image/connections.png)
+
+
+Steps to Run
+================
+To run this pipeline, locally one execute the following commands.
+
+1. brew install astro
+2. astro dev init
+3. astro dev start
+
+The username and password required to log into airflow are `admin` and `admin` respectively.
