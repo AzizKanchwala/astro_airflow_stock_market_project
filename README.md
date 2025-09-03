@@ -20,10 +20,11 @@ All the connections are stored in the metabase. For this pipeline, we have these
 
 Steps to Run
 ================
-To run this pipeline, locally one execute the following commands.
+To run this pipeline, one needs to have docker installed locally and execute the following commands.
 
 1. brew install astro
 2. astro dev init
 3. astro dev start
 
+This will create all the containers as specified in the `docker-compose.override.yml` file and install all the dependencies as specified in the `requirements.txt` file in the docker environment.
 The username and password required to log into airflow are `admin` and `admin` respectively.
