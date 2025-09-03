@@ -12,3 +12,4 @@ airflow.db
 .astro
 include/data/**
 include/data/
+image/

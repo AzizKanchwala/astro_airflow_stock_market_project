@@ -33,3 +33,8 @@ The username and password required to log into airflow are `admin` and `admin` r
 Mental model for the configuration in this pipeline
 ====================================================
 ![Alt text](image/mental_model.png)
+
+
+Container Set-up
+==============================================
+![Alt text](image/ChatGPT Image Sep 3, 2025, 05_59_31 PM.png)
