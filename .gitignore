@@ -12,7 +12,3 @@ airflow.db
 .astro
 include/data/**
 include/data/
-image/
-image/connections.png
-image/dag_image.png
-image/mental_model.png
