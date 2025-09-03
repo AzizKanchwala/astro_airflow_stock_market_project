@@ -37,4 +37,4 @@ Mental model for the configuration in this pipeline
 
 Container Set-up
 ==============================================
-![Alt text](image/ChatGPT Image Sep 3, 2025, 05_59_31 PM.png)
+![Alt text](image/ChatGPT.png)
